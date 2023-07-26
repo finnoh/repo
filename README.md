@@ -1,8 +1,11 @@
 # The Repo Newsletter
 
 Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data science community:
+
 🗄️ Re: Remarkable Repository (const-ae/ggsignif)
+
 💻 P: Prolific Programmer (Lilian Weng)
+
 🏢 O: Outstanding Organization (Machine Learning University)
 
 [You can sign-up here](https://www.ds-econ.com/#/portal/signup/free)
