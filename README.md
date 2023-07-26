@@ -2,22 +2,22 @@
 
 Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data science community:
 
-🗄️ Re: Remarkable Repository (const-ae/ggsignif)
+🗄️ Re: Remarkable Repository
 
-💻 P: Prolific Programmer (Lilian Weng)
+💻 P: Prolific Programmer
 
-🏢 O: Outstanding Organization (Machine Learning University)
+🏢 O: Outstanding Organization
 
 [You can sign-up here](https://www.ds-econ.com/#/portal/signup/free)
 [...and find all past editions here](www.ds-econ.com/tag/repo/)
 
 > Submit a Pull Request to add your own gems to the list!
 
-## Repositories
+## 🗄️ Re: Remarkable Repositories
 - [ggsignif - Adding significance levels to ggplot boxplots](https://github.com/const-ae/ggsignif) [Issue 1.0 - 26th Jul 23]
 
-## Programmers
+## 💻 P: Prolific Programmers
 - [Lilian Weng](https://lilianweng.github.io) [Issue 1.0 - 26th Jul 23]
 
-## Organizations
+## 🏢 O: Outstanding Organizations
 - [Machine Learning University](https://mlu-explain.github.io) [Issue 1.0 - 26th Jul 23]
