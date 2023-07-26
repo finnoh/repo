@@ -1,6 +1,7 @@
 # The Repo Newsletter
 
 Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data science community:
+> *Submit a Pull Request to add your own gems to the list!*
 
 🗄️ Re: Remarkable Repository
 
@@ -8,9 +9,10 @@ Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data scienc
 
 🏢 O: Outstanding Organization
 
-You can sign-up [here](https://www.ds-econ.com/#/portal/signup/free) and find all past editions [here](www.ds-econ.com/tag/repo/).
+[Sign-up for The Repo!](https://www.ds-econ.com/#/portal/signup/free) 
 
-> Submit a Pull Request to add your own gems to the list!
+... and find all past editions [here](www.ds-econ.com/tag/repo/).
+
 
 ## 🗄️ Re: Remarkable Repositories
 - [ggsignif - Adding significance levels to ggplot boxplots](https://github.com/const-ae/ggsignif) [Issue 1.0 - 26th Jul 23]
