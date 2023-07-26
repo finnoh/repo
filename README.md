@@ -8,8 +8,7 @@ Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data scienc
 
 🏢 O: Outstanding Organization
 
-[You can sign-up here](https://www.ds-econ.com/#/portal/signup/free)
-[...and find all past editions here](www.ds-econ.com/tag/repo/)
+You can sign-up [here](https://www.ds-econ.com/#/portal/signup/free) and find all past editions [here](www.ds-econ.com/tag/repo/).
 
 > Submit a Pull Request to add your own gems to the list!
 
