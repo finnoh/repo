@@ -11,7 +11,7 @@ Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data scienc
 
 [Sign-up for The Repo!](https://www.ds-econ.com/#/portal/signup/free) 
 
-... and find all past editions [here](www.ds-econ.com/tag/repo/).
+... and find all past editions [here](https://www.ds-econ.com/tag/repo/).
 
 
 ## 🗄️ Re: Remarkable Repositories
