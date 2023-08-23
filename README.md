@@ -9,7 +9,9 @@ Welcome to The Repo! 🚀 Each week, I'll curate three gems from the data scienc
 
 🏢 O: Outstanding Organization
 
-[Sign-up for The Repo!](https://www.ds-econ.com/#/portal/signup/free) 
+[Sign-up for The Repo!](https://www.ds-econ.com/#/portal/signup/free)
+
+<iframe src="https://dsecon.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ... and find all past editions [here](https://www.ds-econ.com/tag/repo/).
 
